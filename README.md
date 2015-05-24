@@ -10,7 +10,7 @@ The CodeBook.md describes the variables, the data and the transformation necessa
 ##Directions:
 ### 0 Data collection
 The files were downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" and placed in "./data"
-The files were extracted and into this directory, "./data/UCI HAR Dataset"
+The files were extracted and into this directory, "./UCI HAR Dataset"
 
 The data has been downloaded and unzipped into a working directory of “/data/ wearabledata”.  To reproduce the results, please store the files in this location.
 
